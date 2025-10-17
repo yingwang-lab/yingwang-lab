@@ -1,16 +1,16 @@
 # navigation.yml
+
 - title: Home
   url: /
 - title: Research
   url: /research/
-- title: People
-  url: /people/
-- title: Publications
-  url: /publications/
 - title: Teaching
   url: /teaching/
-- title: News
-  url: /news/
+- title: Publications
+  url: /publications/
+- title: People
+  url: /people/
+- title: Join Us
+  url: /join/
 - title: Contact
   url: /contact/
-
