@@ -50,8 +50,8 @@ navbar_fixed: true
 footer_fixed: true
 
 # Search
-search_enabled: true        # ✅ enable site search
-socials_in_search: true
+search_enabled: false        # ✅ enable site search
+socials_in_search: false
 posts_in_search: false      # 🚫 exclude blog/news from search
 bib_search: true            # ✅ include bibliography entries in search
 
@@ -85,9 +85,9 @@ bing_site_verification:
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio
-blog_description: a simple whitespace theme for academics
-permalink: /blog/:year/:title/
+blog_name: false
+blog_description: false
+permalink: false
 lsi: false
 
 # Pagination
